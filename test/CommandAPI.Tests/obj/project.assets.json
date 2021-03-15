@@ -5646,11 +5646,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Source\\repos\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
       "projectName": "CommandAPI.Tests",
-      "projectPath": "C:\\Users\\pc\\Source\\repos\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
+      "projectPath": "C:\\Users\\pc\\source\\repos\\CommandAPISolution\\test\\CommandAPI.Tests\\CommandAPI.Tests.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Source\\repos\\CommandAPISolution\\test\\CommandAPI.Tests\\obj\\",
+      "outputPath": "C:\\Users\\pc\\source\\repos\\CommandAPISolution\\test\\CommandAPI.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5667,8 +5667,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\pc\\Source\\repos\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
-              "projectPath": "C:\\Users\\pc\\Source\\repos\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj"
+            "C:\\Users\\pc\\source\\repos\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj": {
+              "projectPath": "C:\\Users\\pc\\source\\repos\\CommandAPISolution\\src\\CommandAPI\\CommandAPI.csproj"
             }
           }
         }
